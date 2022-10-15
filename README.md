@@ -1,7 +1,7 @@
 # Hi :wave:
 I am a frontend developer. Writing on Vue.
 #
-<div id="badges" style="display: flex; flex-direction: column;">
+<div id="badges" class="btn" >
   <a href="https://www.linkedin.com/in/artsergienko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -18,3 +18,9 @@ I am a frontend developer. Writing on Vue.
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
 </div>
+
+<style> 
+  .btn {
+  display: flex; 
+  flex-direction: column;
+  }
