@@ -8,6 +8,5 @@ I am a frontend developer. Writing on Vue.
 </div>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg
   <img src="  https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
 </div>
