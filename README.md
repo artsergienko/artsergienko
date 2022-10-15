@@ -24,3 +24,4 @@ I am a frontend developer. Writing on Vue.
   display: flex; 
   flex-direction: column;
   }
+  </style>
