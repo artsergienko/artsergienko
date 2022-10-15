@@ -1,7 +1,7 @@
 # Hi :wave:
 I am a frontend developer. Writing on Vue.
 #
-<div id="badges" class="display: flex; flex: column;">
+<div id="badges" class="display: flex; flex-direction: column;">
   <a href="https://www.linkedin.com/in/artsergienko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
