@@ -1,5 +1,5 @@
 # Hi :wave:
-I am a frontend developer. Writing on Vue.
+Developing with Vue and Tailwind.
 # My contacts
 
 <p>
