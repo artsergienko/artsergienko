@@ -9,7 +9,7 @@ Developing with Vue and Tailwind.
 </p>
 <p>
   <a href="mailto:artem.k.sergienko@gmail.com">
-    <img src="https://camo.githubusercontent.com/96016e7f760b5b0c8cec17903ed5f1d45e047dc82867619a3012b98d2e9b256e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61696c2532302d626c61636b3f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="gmail Badge"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="gmail Badge"/>
   </a>
  </p>
 
