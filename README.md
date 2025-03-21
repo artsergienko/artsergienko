@@ -9,7 +9,7 @@ Developing with Vue and Tailwind.
 </p>
 <p>
   <a href="mailto:artem.k.sergienko@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" alt="gmail Badge"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" width="40" height="40" alt="gmail Badge"/>
   </a>
  </p>
 
